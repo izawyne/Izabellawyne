@@ -1,9 +1,9 @@
 ## 👋 Olá! Eu sou a Izabella Wyne
 
 - 👀 Sou Engenheira Química formada, tenho muito interesse na área industrial e em programação
-- 🌱 Atualmente estou finalizando meu mestrado em Eng. Química pela Unicamp 
-- ✨Também estou realizando o curso Formação de Projetos que tem como foco realizar um projeto de melhoria contínua para empresas
-- 💞️ Atualmente estou aprendendo as ferramentas Python e SQL por conta própria.
+- 🌱 Mestre em Eng. Química com foco em polímeros pela Unicamp
+- ✨Atualmente realizando curso de especialização em Inteligência Artificial para Engenharia de Processos na Unicamp
+- 💞️Aprendendo as ferramentas Python e SQL por conta própria.
   
 <div align="center" valign="top"><br>
    <h2> Programming 💻 </h2></br>
